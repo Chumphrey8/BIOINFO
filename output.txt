@@ -1,0 +1,8 @@
+Alignment Score: -4
+
+Best Possible Alignment:
+Matches: 6
+Mismatches: 0
+Gaps: 5
+F--M-DTPLNE
+FKHMED-PL-E
